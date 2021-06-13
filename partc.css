@@ -1,0 +1,19 @@
+.main{
+    /* display:flex;     */
+    width:50%;
+    margin: auto;
+    padding:50px
+}
+.large{
+    padding: 7px 70px;
+    margin-top: 20px;
+}
+/* .abhi1{
+    background-color: red;
+} */
+/* .by-new{
+    background-color:red;
+    margin-bottom: 50px;
+    padding:50px;
+    border: 2px solid blue;
+} */
